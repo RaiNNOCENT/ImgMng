@@ -1,0 +1,9 @@
+C:\Users\izayo\Documents\GitHub\ImgMng\ImgMng\bin\Debug\ImgMng.exe.config
+C:\Users\izayo\Documents\GitHub\ImgMng\ImgMng\bin\Debug\ImgMng.exe
+C:\Users\izayo\Documents\GitHub\ImgMng\ImgMng\bin\Debug\ImgMng.pdb
+C:\Users\izayo\Documents\GitHub\ImgMng\ImgMng\obj\Debug\ImgMng.csprojAssemblyReference.cache
+C:\Users\izayo\Documents\GitHub\ImgMng\ImgMng\obj\Debug\ImgMng.Form1.resources
+C:\Users\izayo\Documents\GitHub\ImgMng\ImgMng\obj\Debug\ImgMng.Properties.Resources.resources
+C:\Users\izayo\Documents\GitHub\ImgMng\ImgMng\obj\Debug\ImgMng.csproj.GenerateResource.cache
+C:\Users\izayo\Documents\GitHub\ImgMng\ImgMng\obj\Debug\ImgMng.exe
+C:\Users\izayo\Documents\GitHub\ImgMng\ImgMng\obj\Debug\ImgMng.pdb
